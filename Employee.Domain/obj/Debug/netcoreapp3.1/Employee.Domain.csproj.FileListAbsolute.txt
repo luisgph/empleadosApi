@@ -1,0 +1,12 @@
+C:\Angular\IG\Api\Employees\Employee.Domain\bin\Debug\netcoreapp3.1\Employee.Domain.deps.json
+C:\Angular\IG\Api\Employees\Employee.Domain\bin\Debug\netcoreapp3.1\Employee.Domain.dll
+C:\Angular\IG\Api\Employees\Employee.Domain\bin\Debug\netcoreapp3.1\Employee.Domain.pdb
+C:\Angular\IG\Api\Employees\Employee.Domain\bin\Debug\netcoreapp3.1\Employee.Dto.dll
+C:\Angular\IG\Api\Employees\Employee.Domain\bin\Debug\netcoreapp3.1\Employee.Dto.pdb
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.csprojAssemblyReference.cache
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.AssemblyInfoInputs.cache
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.AssemblyInfo.cs
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.csproj.CoreCompileInputs.cache
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.csproj.CopyComplete
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.dll
+C:\Angular\IG\Api\Employees\Employee.Domain\obj\Debug\netcoreapp3.1\Employee.Domain.pdb

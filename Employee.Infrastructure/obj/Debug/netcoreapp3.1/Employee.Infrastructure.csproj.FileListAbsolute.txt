@@ -1,0 +1,14 @@
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.deps.json
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.dll
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.pdb
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Domain.dll
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Dto.dll
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Domain.pdb
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Dto.pdb
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csprojAssemblyReference.cache
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfo.cs
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.CopyComplete
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.dll
+C:\Angular\IG\Api\Employees\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzWjdOivAU5z9sBA9tAgYruXUvAg2IkDzkd21iOGPKAOj8ihFNBgHY3s0aRtODEUWOreGoi5awthSYTXu9u7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Angular\\IG\\Api\\Employees\\Employee.Dto\\Employee.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
